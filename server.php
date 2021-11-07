@@ -1,5 +1,5 @@
 <?php
-
+echo "bbb";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
