@@ -8,4 +8,5 @@ abstract class TestCase extends BaseTestCase
 {
     use CreatesApplication;
 	echo "aaa";die;
+	echo "bbb";
 }
