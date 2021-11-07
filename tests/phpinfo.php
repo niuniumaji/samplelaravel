@@ -1,2 +1,3 @@
 <?
 phpinfo();
+echo 99;
